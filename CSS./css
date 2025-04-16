@@ -1,0 +1,26 @@
+body {
+    background-color: #fbf4fa;
+    color: #00bfff; /* Celeste */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #00bfff; /* Celeste */
+}
+
+a {
+    text-transform: uppercase;
+    color: #00bfff; /* Celeste */
+    font-weight: bold;
+}
+
+img {
+    border-radius: 15px;
+    width: 50%;
+    display: block;
+    margin: 10px auto;
+}
